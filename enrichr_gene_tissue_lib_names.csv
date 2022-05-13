@@ -1,0 +1,5 @@
+GENE,TISSUE,LIBRARY
+TMEM14A,Memory,Epigenomics_Roadmap_HM_ChIP-seq
+TMEM14A,Hippo,ENCODE_TF_ChIP-seq_2015
+GLUL,panc,Epigenomics_Roadmap_HM_ChIP-seq
+GLUL,panc,ENCODE_TF_ChIP-seq_2015
