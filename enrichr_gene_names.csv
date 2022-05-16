@@ -15,3 +15,6 @@ PTPN22,Appendix,Epigenomics_Roadmap_HM_ChIP-seq
 PTPN22,Lymphoid,ENCODE_TF_ChIP-seq_2015
 CTLA4,Lung,Epigenomics_Roadmap_HM_ChIP-seq
 CTLA4,Lung,ENCODE_TF_ChIP-seq_2015
+CTLA4,Appendix,Epigenomics_Roadmap_HM_ChIP-seq
+CTLA4,Duodenum,Epigenomics_Roadmap_HM_ChIP-seq
+CTLA4,Gall Bladder,Epigenomics_Roadmap_HM_ChIP-seq
