@@ -1,0 +1,10 @@
+Gene Target,Interacting Gene,Tissue,Enrichr Library
+HLA-DQA1,H3K36me3,Lung,Epigenomics_Roadmap_HM_ChIP-seq
+HLA-DQA1,H3K4me1,Lung,Epigenomics_Roadmap_HM_ChIP-seq
+HLA-DQA1,H3K9ac,Panc,Epigenomics_Roadmap_HM_ChIP-seq
+HNF1A,H3K4me3,Duodenum,Epigenomics_Roadmap_HM_ChIP-seq
+HNF1A,H3K9ac,Duodenum,Epigenomics_Roadmap_HM_ChIP-seq
+HNF1A,H3K4me3,Duodenum,Epigenomics_Roadmap_HM_ChIP-seq
+HNF1A,H3K4me3,Kidney,Epigenomics_Roadmap_HM_ChIP-seq
+HNF1A,H3K9ac,Panc,Epigenomics_Roadmap_HM_ChIP-seq
+PTPN22,H3K27me3,Bone Marrow,Epigenomics_Roadmap_HM_ChIP-seq
