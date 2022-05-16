@@ -1,6 +1,6 @@
 GENE,TISSUE,LIBRARY
 HLA-DQA1,Lymphoid,ENCODE_TF_ChIP-seq_2015
-HLA-DQA1,Lymph Node,ENCODE_TF_ChIP-seq_2016
+HLA-DQA1,Lymph Node,ENCODE_TF_ChIP-seq_2015
 HLA-DQA1,Lung,Epigenomics_Roadmap_HM_ChIP-seq
 HLA-DQA1,Panc,Epigenomics_Roadmap_HM_ChIP-seq
 FOXP3,Spleen,ENCODE_TF_ChIP-seq_2015
@@ -13,5 +13,33 @@ HNF1A,Liver,ENCODE_TF_ChIP-seq_2015
 PTPN22,Bone Marrow,Epigenomics_Roadmap_HM_ChIP-seq
 PTPN22,Appendix,Epigenomics_Roadmap_HM_ChIP-seq
 PTPN22,Lymphoid,ENCODE_TF_ChIP-seq_2015
+CTLA4,Appendix,Epigenomics_Roadmap_HM_ChIP-seq
+CTLA4,Duodenum,Epigenomics_Roadmap_HM_ChIP-seq
+CTLA4,Gall Bladder,Epigenomics_Roadmap_HM_ChIP-seq
 CTLA4,Lung,Epigenomics_Roadmap_HM_ChIP-seq
 CTLA4,Lung,ENCODE_TF_ChIP-seq_2015
+ACE,Duodenum,ENCODE_TF_ChIP-seq_2015
+ACE,Small Intestine,Epigenomics_Roadmap_HM_ChIP-seq
+ACE,Lung,Epigenomics_Roadmap_HM_ChIP-seq
+ADIPOQ,Fat,Epigenomics_Roadmap_HM_ChIP-seq
+ADIPOQ,Fat,ENCODE_TF_ChIP-seq_2015
+IL6,Urinary Bladder,Epigenomics_Roadmap_HM_ChIP-seq
+IL6,Lung,ENCODE_TF_ChIP-seq_2015
+IL6,Galbladder,Epigenomics_Roadmap_HM_ChIP-seq
+SLC30A8,Panc,Epigenomics_Roadmap_HM_ChIP-seq
+SLC30A8,Kidney,Epigenomics_Roadmap_HM_ChIP-seq
+TNF,Bone Marrow,Epigenomics_Roadmap_HM_ChIP-seq
+TNF,Lymph Node,ENCODE_TF_ChIP-seq_2015
+TNF,Lung,ENCODE_TF_ChIP-seq_2015
+TNF,Lung,Epigenomics_Roadmap_HM_ChIP-seq
+VDR,Small Intestine,Epigenomics_Roadmap_HM_ChIP-seq
+VDR,Duodenum,Epigenomics_Roadmap_HM_ChIP-seq
+VDR,Colon,Epigenomics_Roadmap_HM_ChIP-seq
+VDR,Kidney,Epigenomics_Roadmap_HM_ChIP-seq
+VDR,Small Intestine,ENCODE_TF_ChIP-seq_2015
+VDR,Duodenum,ENCODE_TF_ChIP-seq_2015
+VDR,Colon,ENCODE_TF_ChIP-seq_2015
+WFS1,Ovary,ENCODE_TF_ChIP-seq_2015
+WFS1,Lung,Epigenomics_Roadmap_HM_ChIP-seq
+WFS1,Ovary,Epigenomics_Roadmap_HM_ChIP-seq
+WFS1,Lung,ENCODE_TF_ChIP-seq_2015
