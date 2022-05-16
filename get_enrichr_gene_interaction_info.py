@@ -121,7 +121,7 @@ def chk_and_remove_nans(list_of_names):
 #####
 # READ THE  enrichr_gene_tissue_lib_names.csv FILE TO GET THE GENES TO PROCESS.
 # READ GENE NAME, TISSUE, AND LIBRARY INFO
-gene_tissue_library_names = pd.read_csv("enrichr_gene_tissue_lib_names.csv")
+gene_tissue_library_names = pd.read_csv("enrichr_gene_names.csv")
 
 # EXTRACT GENE NAMES INTO A LIST
 gene_names = gene_tissue_library_names.loc[:,'GENE']

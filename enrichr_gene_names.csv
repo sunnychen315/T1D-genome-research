@@ -1,0 +1,17 @@
+GENE,TISSUE,LIBRARY
+HLA-DQA1,Lymphoid,ENCODE_TF_ChIP-seq_2015
+HLA-DQA1,Lymph Node,ENCODE_TF_ChIP-seq_2016
+HLA-DQA1,Lung,Epigenomics_Roadmap_HM_ChIP-seq
+HLA-DQA1,Panc,Epigenomics_Roadmap_HM_ChIP-seq
+FOXP3,Spleen,ENCODE_TF_ChIP-seq_2015
+FOXP3,Appendix,ENCODE_TF_ChIP-seq_2015
+FOXP3,Thymus,ENCODE_TF_ChIP-seq_2015
+HNF1A,Duodenum,Epigenomics_Roadmap_HM_ChIP-seq
+HNF1A,Kidney,Epigenomics_Roadmap_HM_ChIP-seq
+HNF1A,Panc,Epigenomics_Roadmap_HM_ChIP-seq
+HNF1A,Liver,ENCODE_TF_ChIP-seq_2015
+PTPN22,Bone Marrow,Epigenomics_Roadmap_HM_ChIP-seq
+PTPN22,Appendix,Epigenomics_Roadmap_HM_ChIP-seq
+PTPN22,Lymphoid,ENCODE_TF_ChIP-seq_2015
+CTLA4,Lung,Epigenomics_Roadmap_HM_ChIP-seq
+CTLA4,Lung,ENCODE_TF_ChIP-seq_2015
