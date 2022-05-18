@@ -1,6 +1,3 @@
-
-#! /usr/bin/get_enrichr_gene_interaction_info.py
-
 """
 INPUT:      A enrichr_gene_names.csv  file with a list of genes of interest in first column,
             the tissue of interest in the second column, and the gene set library to use in the
@@ -11,9 +8,7 @@ PARAMETERS:
 
 """
 
-# IMPORTS
 from math import nan
-
 import pandas as pd
 import json
 import requests
